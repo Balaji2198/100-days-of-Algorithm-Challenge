@@ -2,3 +2,7 @@
 Current Languages: Python
 
 ## Logs
+### Day 0: January 20, 2017 
+1) **filename1:** description 
+
+2) **filename2:** description
